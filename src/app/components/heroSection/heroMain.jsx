@@ -55,7 +55,7 @@ function HeroMain() {
                         Categories
                     </Button>
                 </div>
-                <p className={`mt-4 ${interA.className} `}>Also Available On</p>
+                <p className={`mt-4 ${interA.className} `}>Also Available </p>
                 <div className='flex mt-4'>
                     <Image
                         src={'/flipkart.png'}

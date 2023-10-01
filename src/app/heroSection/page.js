@@ -30,7 +30,7 @@ const interA = Inter({
 
 function HeroMain() {
     return (
-        <div className='flex flex-col md:flex-row justify-around mt-6 md:mt-8 md:mx-24 w-100% '>
+        <div className='flex md:flex-col lg:flex-row flex-col-reverse justify-around mt-6 md:mt-8 md:mx-24 w-100% p-6 md:p-0'>
 
             <div className={` w-full md:w-1/2 flex flex-col align-middle justify-center`}>
                 <h1 className={`${poppins.className} text-6xl  xl:text-7xl md:pr-20 xl:pr-0 `}>YOUR FEET

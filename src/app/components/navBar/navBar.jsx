@@ -27,7 +27,7 @@ function NavBar() {
         },
         {
             title: "Contact",
-            href: "#contact"
+            href: "contactUs"
         }
     ]
     const [openNavBar, setOpenNavBar] = useState(false);

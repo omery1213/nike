@@ -23,7 +23,7 @@ const pointed = () => {
 }
 function ContactUs() {
     return (
-        <div className='mt-14pct md:mt-10pct px-2 md:px-28' id='contact'>
+        <div className='mt-14pct md:mt-10pct px-2 md:px-28  mb-72' id='contact'>
             <h2 className={` w-80 h-20 top-36 left-44 ${poppins.className} text-5xl leading-10 text-center md:text-start	`}>
                 Contact us
             </h2>

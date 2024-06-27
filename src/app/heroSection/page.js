@@ -6,7 +6,7 @@ import Section4 from '../components/heroSectionComponent/section4'
 
 import SlidingSec4 from '../components/heroSectionComponent/slidingSec4'
 import Slide from '../components/heroSectionComponent/mainSlider/swipi'
-import FallSLide from '../components/heroSectionComponent/FallStyle/fallSlide'
+// import FallSLide from '../components/heroSectionComponent/FallStyle/fallSlide'
 
 function HeroMain() {
     return (
@@ -17,7 +17,7 @@ function HeroMain() {
             <Section4 />
             <SlidingSec4 />
 
-            <FallSLide />
+            {/* <FallSLide /> */}
 
         </>
     )
